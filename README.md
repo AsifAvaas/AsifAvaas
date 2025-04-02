@@ -22,9 +22,10 @@ I’ve been exploring full-stack development by experimenting with Node.js, Lara
 <p align="left">
 <a href="https://linkedin.com/in/asifavaas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asifavaas/" height="30" width="40" /></a>
 <a href="https://fb.com/asif.avaas.52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asif.avaas.52" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@asif9543" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dsadsadas" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/asif_avaas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="asif_avaas" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/asifavaas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="asifavaas" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/52ndsymphony/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/52ndsymphony/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/52ndsymphony/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/52ndsymphony/" height="30" width="40" /></a>
 </p>
 <br/>
 
