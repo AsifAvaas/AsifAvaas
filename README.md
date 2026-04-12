@@ -110,14 +110,6 @@ const asif = {
 </div>
 
 
-## 🏅 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=asifavaas&theme=tokyonight&no-bg=true&no-frame=true&margin-w=4&v=2" alt="Asif's Trophies" />
-</div>
-
-
----
 
 <div align="center">
 
